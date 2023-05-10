@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697120723028",
+    "project_id": "apploramogre",
+    "storage_bucket": "apploramogre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697120723028:android:0496cf9dd54a12e711ddc1",
+        "android_client_info": {
+          "package_name": "com.vku.tvan.loramoan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697120723028-gmo102oqsgnlgs3bgjdbekop552j0ad7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFA7_eMjZpkGSaTDduGsrhLTGQLc3jSa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697120723028-gmo102oqsgnlgs3bgjdbekop552j0ad7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
